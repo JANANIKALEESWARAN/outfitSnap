@@ -1,0 +1,6 @@
+.wishlist-page { padding: 24px; }
+.wishlist-page h2 { margin-bottom: 12px; }
+.wishlist-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 16px; }
+.wishlist-card { border: 1px solid #eee; border-radius: 8px; padding: 12px; background: #fff; }
+.wishlist-remove { margin-top: 8px; padding: 6px 10px; border: 1px solid #ddd; background: #fafafa; cursor: pointer; }
+.wishlist-remove:hover { background: #f1f1f1; }
